@@ -1,0 +1,41 @@
+First name:	Last name:	First Test Grade:	Second Test Grade:	Third Test Grade:	Fourth Test Grade:	Final Test Grade:	Average Grade:	Letter Grade
+Andrew		Miller  	87.50			89.00			65.75			37.00			98.50			95.25		A
+John		Doe     	86.00			88.00			85.25			90.00			95.00			107.85		A
+John		Smith   	52.00			82.00			79.00			88.50			85.00			94.30		A
+Jane		Deer    	90.00			93.00			91.00			92.75			94.00			110.95		A
+William		Clinton 	95.00			97.00			95.75			90.00			92.00			112.35		A
+George		Jones   	89.00			81.50			75.00			85.25			88.00			101.35		A
+Sarah		White   	75.50			78.00			85.00			88.00			84.00			98.90		A
+Bill		Able    	88.00			90.00			86.75			91.00			93.50			108.55		A
+Larry		Brown   	99.00			95.00			98.00			96.50			97.00			116.50		A
+Amanda		Ernst   	76.00			79.50			77.00			82.00			84.25			96.60		A
+Richard		Farmer  	84.75			87.00			80.00			85.00			86.00			101.75		A
+Sam		Green   	87.00			91.75			85.00			88.00			90.00			106.35		A
+Paula		Hamilton 	98.00			100.00			97.50			95.00			98.50			117.50		A
+Jesus		Javiar  	77.50			82.00			85.00			78.00			86.00			98.90		A
+Christy		King    	86.00			89.25			92.00			90.00			94.75			109.35		A
+Bob		Bush    	70.00			75.50			77.00			79.00			81.25			92.80		A
+Jerry		Landers 	95.50			97.00			96.00			92.75			94.00			113.85		A
+Sally		Moore   	97.00			99.00			98.25			94.00			99.00			117.25		A
+Nancy		Nadler  	91.00			93.25			90.00			89.00			92.50			109.65		A
+Tina		Templar 	85.00			82.00			88.75			84.00			90.00			103.95		A
+
+Test Averages:			85.49			88.49			86.40			85.79			91.16			
+
+Highest Average Grade: 117.50
+
+Students w/ highest grades:
+				John Doe
+				Jane Deer
+				William Clinton
+				George Jones
+				Bill Able
+				Larry Brown
+				Richard Farmer
+				Sam Green
+				Paula Hamilton
+				Christy King
+				Jerry Landers
+				Sally Moore
+				Nancy Nadler
+				Tina Templar
